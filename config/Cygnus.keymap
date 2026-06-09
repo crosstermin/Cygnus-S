@@ -101,7 +101,7 @@
 &trans       &trans       &kp LC(PAGE_UP)  &kp LC(PAGE_DOWN)  &kp LC(W)                         &kp LC(W)       &kp LC(PAGE_UP)  &kp LC(PAGE_DOWN)  &trans     &trans
 &lt 5 SPACE  &lt 4 SPACE  &mkp LCLK        &mkp RCLK          &mkp MCLK  &trans         &trans  &msc SCRL_UP    &mkp LCLK        &mkp RCLK          &mkp MCLK  &lt 5 SPACE
 &trans       &trans       &trans           &trans             &trans     &mkp RCLK      &trans  &msc SCRL_DOWN  &mkp MB4         &mkp MB5           &trans     &trans
-&trans       &trans       &trans           &to 0              &trans     &trans         &trans  &trans                                                         &trans
+&trans       &trans       &trans           &to 0              &trans     &to 0          &trans  &trans                                                         &trans
             >;
         };
 
